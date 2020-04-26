@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.JWT-Framework", "WebApi.JWT-Framework\WebApi.JWT-Framework.csproj", "{8FA6AB42-1325-4EF1-841A-C1D442DBDFBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FA6AB42-1325-4EF1-841A-C1D442DBDFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA6AB42-1325-4EF1-841A-C1D442DBDFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA6AB42-1325-4EF1-841A-C1D442DBDFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA6AB42-1325-4EF1-841A-C1D442DBDFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38F86A0F-1C65-4AF5-A110-D857DCD147E6}
+	EndGlobalSection
+EndGlobal
